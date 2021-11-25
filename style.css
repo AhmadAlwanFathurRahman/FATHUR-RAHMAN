@@ -498,9 +498,10 @@ a.tombol-merah:hover{
     
     .aboutme p{
         width: 80%;
-        margin-left: 20px;
+        margin-left: 0px;
         margin-top: 20px;
         font-size: 12px;
+        text-align: center;
     }
     
     .basic-information h3{
