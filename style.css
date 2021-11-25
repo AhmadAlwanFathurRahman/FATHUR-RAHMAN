@@ -480,7 +480,7 @@ a.tombol-merah:hover{
     .main-profile{
         color: #060D29;
         font-family: 'poppins';
-        margin: 0 10%;
+        margin: -50 10%;
     }
     
     .main-profile h1{
@@ -490,12 +490,13 @@ a.tombol-merah:hover{
     
     .aboutme h2{
         font-size: 15px;
+        margin-left: 0px;
         text-align: center;
         margin-top: 20px;
     }
     
     .aboutme p{
-        width: 100%;
+        width: 80%;
         margin-left: 20px;
         margin-top: 20px;
         font-size: 12px;
