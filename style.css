@@ -400,24 +400,24 @@ a.tombol-merah:hover{
     
     .text-1 h2{
         font-size: 32px;
-        margin-top: 0px;
+        margin-top: -15px;
     }
     
     .text-1 h3{
         font-size: 26px;
-        margin-top: 0px;
+        margin-top: -8px;
     }
     
     .text-1 h4{
         font-size: 44px;
-        margin-top: 0px;
+        margin-top: -10px;
     }
 
     .text-1 p{
         font-style: italic;
         font-size: 10px;
         margin-left: -5px;
-        margin-top: 0px;
+        margin-top: -5px;
     }
 
     .foto-1 img{
