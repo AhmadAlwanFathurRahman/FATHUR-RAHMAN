@@ -72,3 +72,70 @@ a{
     background-color: #94002a;
     padding: 17px 235px;
 }
+
+@media screen and (max-width: 500px){
+    .text{
+        text-align: center;
+        margin-top: 200px;
+        width: 100%;
+    }
+    
+    .text h1{
+        color: #060D29;
+        font-size: 45px;
+    }
+    
+    .text h2{
+        color: #060D29;
+        font-size: 27px;
+        margin-bottom: 50px;
+    }
+    
+    .text p{
+        margin-top: 30px;
+        margin-bottom: 20px;
+        color: #060D29;
+        font-weight: 600;
+        font-size: 20px;
+    }
+    
+    .fb{
+        background-image: linear-gradient(to right, rgb(4, 0, 255) , rgb(29, 146, 255));
+        padding: 15px 20px;
+        border-radius: 15px;
+        font-size: 12px;
+    }
+    
+    .fb:hover{
+        padding: 20px 25px;
+    }
+    
+    .ig{
+        background-image: linear-gradient(to right, rgb(67, 0, 130), rgb(255, 17, 17), rgb(255, 174, 0));
+        padding: 15px 20px;
+        border-radius: 15px;
+        font-size: 12px;
+    }
+    
+    .ig:hover{
+        padding: 20px 25px;
+    }
+    
+    .lgn{
+        padding: 15px 40px;
+        border-radius: 15px;
+        margin-bottom: 50px;
+    }
+    
+    
+    .tombol-login{
+        background-color: #B20033;
+        padding: 15px 130px;
+        border-radius: 15px
+    }
+    
+    .tombol-login:hover{
+        background-color: #94002a;
+        padding: 17px 235px;
+    }
+}
